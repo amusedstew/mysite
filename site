@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Show Me Your Stuff</title>
+<style>
+h1
+	{
+	 text-decoration: underline;
+}
+p.solid {border-style: solid;}
+</style>
+</head>
+<body bgcolor="10CAA2" text="#142323">
+<h1>Show Me Your Stuff</h1>
+<p class="solid">I have worked in HTML, CSS, and some JS (as well as some GIMP). I had a test site the year before last that I had fun using but was mostly ruined when the SAIL site updated (the site was located in Mike's teacher site). Probably my best accomplishment is figuring out how to make a decent page using Notepad without more proper tools available. </p>
+<p class="solid">This site will show an example of my HTML, CSS, and possibly some JS stuff. However, I have one image which I made in GIMP.
+<img src="https://i.imgsafe.org/5d2986d653.gif" height="150" width="150"></p>
+<p class="solid">What I would like to learn and/or continue to do this year is mostly learn more CSS and JS. I am fairly proficient in all things HTML but the other two languages have minor knowlege in.</p>
+<p class="solid">A good timeline for what I know in these programs is probably the last 4 years. Though, I wasnt very serious about it- I hadn't figured out that I like web design enough to be a career option. I have probably been "serious" about it for the last year or two.</p>
+<p class="solid">Wish List:
+<br>
+<br>
+I would like to spend my time in class doing web design. I would like to learn more CSS and JS, maybe even some JQUERY and Bootstrap. I am strongly leaning towards a job in Web Design so I would like to learn as much as I can. Money? I would like to make as much of it as possible, however I wouldnt want money to be a leading factor in my job opportunities. 
+</p>
+<p class="solid">Who I am:
+<br>
+<br>
+In my spare time, I watch lots of movies/tv and spend time on my computer. Mostly though, I play alot of first person shooter video games. I definately watch alot of TV shows and my favorites include: South Park, Family Guy, Rick and Morty, and recently- Stranger Things. As far as personal information goes, I think that does it....
+</p>
+</body>
+
+</html>
